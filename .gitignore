@@ -9,6 +9,7 @@
 *.iml
 *.iws
 build/
+out/
 
 # Mac
 .DS_Store
